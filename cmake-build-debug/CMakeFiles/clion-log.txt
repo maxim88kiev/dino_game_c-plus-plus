@@ -1,0 +1,4 @@
+C:\Users\maxim\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\191.7479.33\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" C:\Users\maxim\CLionProjects\dino
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/maxim/CLionProjects/dino/cmake-build-debug

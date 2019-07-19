@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/maxim/CLionProjects/dino/dino.h
+iostream
+-
+Windows.h
+-
+conio.h
+-
+random
+-
+
+C:/Users/maxim/CLionProjects/dino/main.cpp
+iostream
+-
+Windows.h
+-
+conio.h
+-
+dino.h
+C:/Users/maxim/CLionProjects/dino/dino.h
+
